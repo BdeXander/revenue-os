@@ -1,6 +1,12 @@
 {
-  "updated_at": "not run",
+  "updated_at": "2026-09-15T14:44:25.166156+00:00",
   "mode": "approval",
-  "signals": 0,
-  "latest": "Run the GitHub Action once."
+  "signals": 7,
+  "top_signal": {
+    "title": "Hi, new to the community: How to scale a high-quality cloud kitchen despite local pricing pushback and no social network?",
+    "summary": "How to scale a high-quality cloud kitchen despite local pricing pushback and no social network?   Hey everyone,   I\u2019m looking for strategic advice on helping my mom launch a successful cloud kitchen/home bakery business.    Our Background &amp; Offering     Specialty:  High-end, authentic baked goods made from scratch using real raw ingredients (e.g., strawberry cupcakes made with real strawberries, not synthetic syrups).    Prior Model:  Pre-orders focusing strictly on premium quality.    The Challenges We're Facing     Pricing Resistance:  We priced our items lower than local commercial bakeries to introduce ourselves, and while customers loved the quality and taste, they still pushed back on the pricing.    Demographics &amp; Integration:  We live in a relatively quiet, predominantly South Indian neighborhood (we are North Indian). Being introverted, we haven't built strong local community ties, and we\u2019ve felt a disconnect that makes local word-of-mouth difficult.    No Marketing Network:  My family is introverted, so relying on relatives, personal favors, or direct local networking to generate leads isn't feasible for us.    What We Need Help With   We want to transition this into a sustainable online/cloud kitchen model so we aren't entirely reliant on immediate walk-in neighbors.   How can we effectively market a premium home bakery online without relying on a personal social circle?   What are the best digital platforms or hyper-local channels (e.g., Swiggy Minis, Zoma",
+    "url": "https://www.reddit.com/r/smallbusiness/comments/1wgw88p/hi_new_to_the_community_how_to_scale_a/",
+    "score": 4
+  },
+  "latest": "AI request failed this cycle."
 }
