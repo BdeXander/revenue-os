@@ -1,0 +1,10 @@
+<!doctype html><html><head><meta name=viewport content="width=device-width,initial-scale=1"><title>Revenue OS</title>
+<style>body{font-family:-apple-system,BlinkMacSystemFont,sans-serif;background:#f4f4f6;margin:0;padding:15px}.card{background:#fff;border-radius:18px;padding:16px;margin:9px 0;box-shadow:0 2px 12px #0001}b{font-size:16px}.big{font-size:28px}.muted{color:#666}pre{white-space:pre-wrap;font:inherit}</style></head>
+<body><h1>Revenue OS</h1><div class=card><b>Cloud engine</b><p class=muted>Scheduled worker + AI analysis</p><div id=summary>Loading…</div></div>
+<div class=card><b>Latest strategy</b><pre id=latest>Loading…</pre></div>
+<div class=card><small>This dashboard never contains your API key.</small></div>
+<script>
+async function load(){try{let u='data/state.json?t='+Date.now();let s=await (await fetch(u)).json();
+document.querySelector('#summary').innerHTML=`<p class=big>${s.signals||0} signals</p><p>Updated: ${s.updated_at||'—'}</p>`;
+document.querySelector('#latest').textContent=s.latest||'No result yet.'}catch(e){document.querySelector('#summary').textContent='Run the GitHub Action once, then refresh.'}}
+load();setInterval(load,30000)</script></body></html>
