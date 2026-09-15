@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-09-15T14:44:25.166156+00:00",
+  "updated_at": "2026-09-15T15:07:13.614764+00:00",
   "mode": "approval",
   "signals": 7,
   "top_signal": {
-    "title": "Hi, new to the community: How to scale a high-quality cloud kitchen despite local pricing pushback and no social network?",
-    "summary": "How to scale a high-quality cloud kitchen despite local pricing pushback and no social network?   Hey everyone,   I\u2019m looking for strategic advice on helping my mom launch a successful cloud kitchen/home bakery business.    Our Background &amp; Offering     Specialty:  High-end, authentic baked goods made from scratch using real raw ingredients (e.g., strawberry cupcakes made with real strawberries, not synthetic syrups).    Prior Model:  Pre-orders focusing strictly on premium quality.    The Challenges We're Facing     Pricing Resistance:  We priced our items lower than local commercial bakeries to introduce ourselves, and while customers loved the quality and taste, they still pushed back on the pricing.    Demographics &amp; Integration:  We live in a relatively quiet, predominantly South Indian neighborhood (we are North Indian). Being introverted, we haven't built strong local community ties, and we\u2019ve felt a disconnect that makes local word-of-mouth difficult.    No Marketing Network:  My family is introverted, so relying on relatives, personal favors, or direct local networking to generate leads isn't feasible for us.    What We Need Help With   We want to transition this into a sustainable online/cloud kitchen model so we aren't entirely reliant on immediate walk-in neighbors.   How can we effectively market a premium home bakery online without relying on a personal social circle?   What are the best digital platforms or hyper-local channels (e.g., Swiggy Minis, Zoma",
-    "url": "https://www.reddit.com/r/smallbusiness/comments/1wgw88p/hi_new_to_the_community_how_to_scale_a/",
+    "title": "How do you get through the \u201cpeople are interested but nobody is buying\u201d stage of a new product business?",
+    "summary": "I launched a small handmade dog enrichment brand about two weeks ago and I\u2019m struggling with the gap between people saying they love the product and people actually buying it.   I\u2019ve had decent website traffic from Instagram/ads, but only a few sales and hardly any add-to-carts. I\u2019ve compared my pricing to similar handmade products and don\u2019t think I\u2019m overpriced.   For anyone who built a physical product business from scratch, what actually helped you move from interest to consistent sales?   Was it reviews/UGC, better content, ads, wholesale, local marketing, or just time and repeated exposure?  I\u2019m trying to figure out whether I need to keep building trust or whether I should be questioning the product itself.   If anyone wants to have a look and tell me what they think, the website is   pokitstudio.com       &#32; submitted by &#32;   /u/Comfortable_Skirt792       [link]   &#32;   [comments]",
+    "url": "https://www.reddit.com/r/smallbusiness/comments/1wh280o/how_do_you_get_through_the_people_are_interested/",
     "score": 4
   },
-  "latest": "AI request failed this cycle."
+  "latest": "AI request failed: HTTP 429 - {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient_quota\",\n        \"param\": null,\n        \"code\": \"credit_balance_exhausted\"\n    }\n}\n"
 }
