@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-09-19T01:29:29.548460+00:00",
+  "updated_at": "2026-09-19T06:29:45.920140+00:00",
   "mode": "approval",
-  "signals": 2,
+  "signals": 4,
   "top_signal": {
-    "title": "How To Get Clients to Pay On Time?",
-    "summary": "I own and operate a small business that provides various marketing services to customers. I'm the only employee and I hire subcontractors for larger jobs as needed. I've been doing this full-time for over three years and without a doubt the BIGGEST challenge and point of frustration is getting my clients to pay me when I expect them to. I feel like during our initial conversations, we'll both be on the same page regarding expectations and timelines, but almost without fail, when it comes time for them to send the check, there is some egregious delay. I am wondering if anyone has any advice on how to handle this.   The perhaps &quot;obvious&quot; solution is to include more stringent rules/penalties in the contract, which I have tried! &quot;If you don't pay by this date, a 10% penalty will be added,&quot; etc., but that is difficult to enforce when a huge part of my job as the business owner is making sure that the clients like me and want to hire me again. I feel like I am constantly walking the razors edge, trying to be a partner who they enjoy and is low-pressure and produces great work without hassle, so they'll be a return customer (as a small business we need as many return customers as we can get!), while also having to follow up and bug them repeatedly to get paid on time. I'm sure I come across as annoying to some clients, which is obviously counterproductive.   If I had a nickel for every time I send an invoice and the email gets ignored, or the Accounts Payable per",
-    "url": "https://www.reddit.com/r/smallbusiness/comments/1wjz4xo/how_to_get_clients_to_pay_on_time/",
+    "title": "How to earn trust",
+    "summary": "I\u2019m trying to start a service company to reduce cloud costs, Azure and AWS. I got experience doing this on my last 2 jobs over 14 years and would like help on how to earn the trust of the client. My offer idea is to charge a percentage of the savings. If my work brings no savings, there is no payment, so there is no risk for the client. But I need to analyze the infrastructure of the client and it demands trust from them. Any insights are helpful, thank you.     &#32; submitted by &#32;   /u/juniorh2o       [link]   &#32;   [comments]",
+    "url": "https://www.reddit.com/r/smallbusiness/comments/1wk9304/how_to_earn_trust/",
     "score": 3
   },
   "latest": "AI request failed: HTTP 429 - {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient_quota\",\n        \"param\": null,\n        \"code\": \"credit_balance_exhausted\"\n    }\n}\n"
