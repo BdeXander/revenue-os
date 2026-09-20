@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-09-20T00:18:49.149341+00:00",
+  "updated_at": "2026-09-20T05:19:00.780084+00:00",
   "mode": "approval",
-  "signals": 2,
+  "signals": 3,
   "top_signal": {
-    "title": "Started strong, now radio silence on payment. Is this normal or a red flag I'm missing?",
-    "summary": "I'm an independent consultant, I implement CRM systems and other tools around it for small businesses: accounting, photographers, accountants, consultancies, agencies. And I charge $60/hr.   Lately I've had two cases that have me second guessing things. One client with a 6 months relationship went completely silent weeks after I sent the last invoice; nothing, not even an excuse. Another wanted to start right away, urgent, the moment we first talked; paid the retainer, and now that it's time to pay for the next round, I keep getting delay after delay.   It's making me wonder if the rate is the problem: does $60/hr sound low enough that people don't take it seriously? Or is it more about the type of client I'm landing (in this case both of them are in Miami), separate from the price?   Has this happened to anyone else here? Does raising your rate actually filter out clients like this, or is it something else that needs to change?     &#32; submitted by &#32;   /u/alcides86       [link]   &#32;   [comments]",
-    "url": "https://www.reddit.com/r/smallbusiness/comments/1wkizdf/started_strong_now_radio_silence_on_payment_is/",
-    "score": 3
+    "title": "Deduction of work vehicle help. (Hiring an accountant, just want to see what people know).",
+    "summary": "I currently have a full time job and started up an LLC and got my general contractor license and plan to start offering home services (handyman work) in spring after my full time job and on weekends. I plan to make it full time in 2028 (obviously if I'm successful). I got my GC just because I wanted to, I don't need it for the services I'm offering but I have the option to pull permits so that's nice.    In the beginning of 2027 I'm going to buy a 100% work vehicle that's going to cost 60-70k (not including full wrap with branding) and will be paying cash for it. The problem is that I have no idea how much I'm going to make in 27/28/29.    I'm guessing 20-40k in 27 and wondering how I can setup the deductions. The vehicle is over 6000lb GVWR so it qualifies for section 179 but I won't make enough my first year to write it off 100%.     &#32; submitted by &#32;   /u/prohoservices       [link]   &#32;   [comments]",
+    "url": "https://www.reddit.com/r/smallbusiness/comments/1wl288z/deduction_of_work_vehicle_help_hiring_an/",
+    "score": 4
   },
   "latest": "AI request failed: HTTP 429 - {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient_quota\",\n        \"param\": null,\n        \"code\": \"credit_balance_exhausted\"\n    }\n}\n"
 }
