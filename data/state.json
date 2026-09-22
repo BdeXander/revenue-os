@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-09-22T09:50:02.509228+00:00",
+  "updated_at": "2026-09-22T14:39:22.705269+00:00",
   "mode": "approval",
-  "signals": 4,
+  "signals": 2,
   "top_signal": {
-    "title": "Is community/forum software still a good SaaS business to build?",
-    "summary": "I've spent close to 20 years building and running online communities.   Over that time, I've seen firsthand how valuable a good community can be for a business: customer conversations, peer support, feedback, retention, word of mouth, and a growing body of useful content.   That background is what led me to build a SaaS in 2024: a white-label community/forum platform for businesses.   I also liked the market for a few reasons:     The category is already proven. There are established companies making serious revenue from community/forum software.   Businesses already run communities across forums, Slack, Discord, Facebook Groups, etc.   I believe useful human conversations will become more valuable as the web fills with AI-generated content.   One of our product bets is that public community content should also help businesses get discovered through Google and AI search, rather than community being purely a retention/engagement tool.     The business is profitable today, and we have a small number of customers who genuinely like the product.   But there's one problem:    Finding new customers is much harder than I expected.    That has made me question something more fundamental than our marketing.    Is community/forum software actually a good business to be in today?    Do enough businesses genuinely care about owning a customer community to pay for dedicated software?   Or is community one of those things companies like the idea of, but rarely consider important enough to ",
-    "url": "https://www.reddit.com/r/Entrepreneur/comments/1wm4hqd/is_communityforum_software_still_a_good_saas/",
-    "score": 5
+    "title": "What\u2019s one part of running your small business you wish you could automate?",
+    "summary": "I\u2019ve been thinking about how much time small business owners spend on things that aren\u2019t really the core of the business.   Not just creating content, but the ongoing stuff:     Checking website performance   Finding SEO issues   Watching what competitors are doing   Figuring out what needs attention   Keeping up with Google changes   Deciding what to work on next     AI can generate a lot of things now, but I\u2019m more interested in using it for the  ongoing work after something is created .   For example, instead of AI building a website and stopping there, it could keep checking the site, identify problems, and help decide what should be improved next.   For those running a small business, what repetitive task takes up more of your time than it should?   And if you could automate one part of it, what would it be?     &#32; submitted by &#32;   /u/nasiruddinniad       [link]   &#32;   [comments]",
+    "url": "https://www.reddit.com/r/smallbusiness/comments/1wn610g/whats_one_part_of_running_your_small_business_you/",
+    "score": 3
   },
   "latest": "AI request failed: HTTP 429 - {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient_quota\",\n        \"param\": null,\n        \"code\": \"credit_balance_exhausted\"\n    }\n}\n"
 }
