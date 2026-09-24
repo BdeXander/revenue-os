@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-09-24T00:49:17.810196+00:00",
+  "updated_at": "2026-09-24T06:02:50.759635+00:00",
   "mode": "approval",
-  "signals": 2,
+  "signals": 3,
   "top_signal": {
-    "title": "Need advice on how to implement price increases due to rising costs",
-    "summary": "I have a business where I design, manufacture, and sell small toy products. My business is entirely online, and my customer base is very very sensitive to price increases in general, as I've seen of their reactions to other companies doing so. The go to is to usually accuse the business of being greedy.    In the last year and a half, my manufacturing costs have risen more than 54% overall, with some key materials jumping more than 60% in price. I've been eating it. It's massively reduced my margins, but I was eating it hoping that things would balance out when I went debt free and paid off all my equipment earlier this year.    I did that, and then the Iran war happened and material costs jumped in June and again just recently, and now the savings from going debt free has almost completely disappeared.    I don't really have any choice now but to raise prices across the board.    How do I approach this with my customer base? Do I explain what's happened and why it's causing this, or do I just raise prices and say nothing?     &#32; submitted by &#32;   /u/DoubleJumps       [link]   &#32;   [comments]",
-    "url": "https://www.reddit.com/r/smallbusiness/comments/1wofk41/need_advice_on_how_to_implement_price_increases/",
-    "score": 3
+    "title": "Spinning out, new mom, entrepreneur-wannabe",
+    "summary": "My daughter is 7 months old and much to my surprise I no longer want to be a working mom. I never planned to stop working but absolutely everything changed when I became a mom.    I would love to have my own business, something with flexibility that allows me to be a mom. I\u2019ve been fighting, literally since she was a week old trying to get a consultancy business going.    I am a Product Manager in the corporate world and I have history working with a range of businesses, large institutions to small mom and pops, helping them understand complicated problems and designing tech solutions.    The one problem I\u2019m failing to solve currently? How do I get clients? Do small businesses need someone like me? The most obvious is leveraging my existing network, and \u2026 that has not translated. Lots of well wishes, good intentions and the like, just\u2026. Crickets.    I\u2019ve done some free work for testimonials.    It destroys me how little I see my kid. I can\u2019t afford to fail at this because the cost is missing her childhood.    Any advice? I\u2019m eternally grateful for any direction.      &#32; submitted by &#32;   /u/CoachBinca       [link]   &#32;   [comments]",
+    "url": "https://www.reddit.com/r/smallbusiness/comments/1woscpm/spinning_out_new_mom_entrepreneurwannabe/",
+    "score": 5
   },
   "latest": "AI request failed: HTTP 429 - {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient_quota\",\n        \"param\": null,\n        \"code\": \"credit_balance_exhausted\"\n    }\n}\n"
 }
