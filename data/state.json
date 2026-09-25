@@ -1,12 +1,7 @@
 {
-  "updated_at": "2026-09-25T07:37:23.674319+00:00",
+  "updated_at": "2026-09-25T13:36:42.946866+00:00",
   "mode": "approval",
-  "signals": 1,
-  "top_signal": {
-    "title": "How do you manage your finances as a one-person small business?",
-    "summary": "Hi! I\u2019m a 22-year-old small business owner in the Philippines and I\u2019ve been running my business by myself. I\u2019m basically a one-woman team doing everything from production, purchasing, marketing, admin, finances, packing, etc.   I currently make around \u20b140\u201345k/month in gross sales, with around \u20b125k/month in profit.   Over the past 4 months, I\u2019ve managed to save almost \u20b180k, but the problem is that I\u2019ve been keeping ALL of my business income in just one personal bank account. \ud83d\ude05 So technically, I don\u2019t really have a proper system for separating business money from my own money.   I want to start doing things properly now and would love advice from other small business owners:   - Should I open a separate bank account specifically for the business?   - How much of my monthly profit should I pay myself as a salary/owner\u2019s draw?   - How much should I keep in the business as working capital?   - How much should I set aside for savings/emergencies and taxes?   - Is it better to give myself a fixed monthly amount or just take money out whenever I need it?   For context, the business is still relatively small, but I\u2019d like to eventually grow it, so I want to build good financial habits now rather than continue mixing everything together.   Would really appreciate any advice or systems that have worked for you! \ud83d\ude4f     &#32; submitted by &#32;   /u/Technical-Peak-8250       [link]   &#32;   [comments]",
-    "url": "https://www.reddit.com/r/smallbusiness/comments/1wp4nx5/how_do_you_manage_your_finances_as_a_oneperson/",
-    "score": 3
-  },
-  "latest": "AI request failed: HTTP 429 - {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient_quota\",\n        \"param\": null,\n        \"code\": \"credit_balance_exhausted\"\n    }\n}\n"
+  "signals": 0,
+  "top_signal": null,
+  "latest": "No strong signal found."
 }
