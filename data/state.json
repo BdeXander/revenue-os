@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-09-28T19:35:01.066072+00:00",
+  "updated_at": "2026-09-28T23:54:05.327053+00:00",
   "mode": "approval",
-  "signals": 2,
+  "signals": 3,
   "top_signal": {
     "title": "How are startups handling WhatsApp when the conversations involve serious money?",
     "summary": "We\u2019re a startup so naturally half the company runs through WhatsApp lol. It\u2019s quick and our customers already use it. The problem is we deal with high-end clients and some pretty high-value transactions. That makes me nervous about how much trust we put in a WhatsApp account. If a client\u2019s account gets compromised and we get a message changing payment details or approving something sensitive how are we supposed to know it\u2019s actually them? We\u2019ve looked at separate callbacks and verification through known contacts. I saw kibu while looking into this which takes the approach of establishing a trusted connection with the actual person and verifying them again when needed. There seem to be other identity and verification tools trying to solve parts of this too. I don\u2019t really want to replace WhatsApp because that\u2019s where people already are. I\u2019m more interested in having a separate verification layer for the few requests where getting it wrong could cost a lot. I wanna know what everyone thinks or any piece of advice will be super helpful.     &#32; submitted by &#32;   /u/troubledhorror       [link]   &#32;   [comments]",
