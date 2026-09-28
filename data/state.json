@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-09-28T11:56:18.069643+00:00",
+  "updated_at": "2026-09-28T19:35:01.066072+00:00",
   "mode": "approval",
   "signals": 2,
   "top_signal": {
-    "title": "Finding CPA",
-    "summary": "We're looking for a reliable CPA for our business taxes and I'm not sure where to find legitimate help. We're on our second tax preparer and they're unreliable- both of our preparers are local businesses that we found through word of mouth. Is there a legitimate online database we can go through or are tax preparers notoriously unreliable/ uncommunicative? The first one just kept filing extensions and the second one can't even get into QB accountant view, and now they're asking for the personal log-in.   And how do I check an accountants license?     &#32; submitted by &#32;   /u/Any_Dirt2073       [link]   &#32;   [comments]",
-    "url": "https://www.reddit.com/r/smallbusiness/comments/1wsblow/finding_cpa/",
-    "score": 3
+    "title": "How are startups handling WhatsApp when the conversations involve serious money?",
+    "summary": "We\u2019re a startup so naturally half the company runs through WhatsApp lol. It\u2019s quick and our customers already use it. The problem is we deal with high-end clients and some pretty high-value transactions. That makes me nervous about how much trust we put in a WhatsApp account. If a client\u2019s account gets compromised and we get a message changing payment details or approving something sensitive how are we supposed to know it\u2019s actually them? We\u2019ve looked at separate callbacks and verification through known contacts. I saw kibu while looking into this which takes the approach of establishing a trusted connection with the actual person and verifying them again when needed. There seem to be other identity and verification tools trying to solve parts of this too. I don\u2019t really want to replace WhatsApp because that\u2019s where people already are. I\u2019m more interested in having a separate verification layer for the few requests where getting it wrong could cost a lot. I wanna know what everyone thinks or any piece of advice will be super helpful.     &#32; submitted by &#32;   /u/troubledhorror       [link]   &#32;   [comments]",
+    "url": "https://www.reddit.com/r/smallbusiness/comments/1wsl1xw/how_are_startups_handling_whatsapp_when_the/",
+    "score": 4
   },
   "latest": "AI request failed: HTTP 429 - {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient_quota\",\n        \"param\": null,\n        \"code\": \"credit_balance_exhausted\"\n    }\n}\n"
 }
