@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-09-29T16:58:47.892195+00:00",
+  "updated_at": "2026-09-29T21:20:25.608183+00:00",
   "mode": "approval",
   "signals": 2,
   "top_signal": {
-    "title": "Business partner fiduciary and contract breach",
-    "summary": "Hi - i have a small contracting business and had been working with a guy who I made a partner last year. He was a great employee and had a great attitude up until he was in charge on jobsites - then everything changed.   He quickly mis-quoted a project, then another one and all of a sudden we had lost ~$60k.    Because I needed someone with his skillset, and he kept insisting we would make it back, i kept him on. The business is very short on resources and even more so because of his 6 months of losses.   This summer I drew up and had him sign a contract that effectively made him a fiduciary and personally liable for business losses, on top of him already owing the business based on capital account balance. I was the sole determinant on if he was doing a good job. I told him basically if he can\u2019t agree to these terms I couldn\u2019t continue.    He asked for one concession which I granted because i\u2019m trying to make this work.   I started getting jobs lined up for this fall, and on the first one he decided to set the project up weirdly, and then just didn\u2019t show up the next day, leaving me and a new hire with a mess. I told him he had a fiduciary obligation to the company (given he was in charge of onsite responsibilities.   He added a snarky text comment to let me know he was going home after not showing up for the first 6 hours of the day. I told him he breached the contract and is no longer a partner even though he doesn\u2019t seem to think so (he absolutely did).   The contract is ",
-    "url": "https://www.reddit.com/r/smallbusiness/comments/1wta0er/business_partner_fiduciary_and_contract_breach/",
+    "title": "For those who've hired freelance web devs: why choose a junior over AI/no-code?",
+    "summary": "I'm an early-career freelance web dev. I can code well-defined tasks but I'm still building the judgment side (product decisions, tradeoffs). With AI tools and no-code builders, I'm trying to understand what makes a junior worth hiring.   If you've actually hired freelancers, I'd love to hear:      What problem were you solving when you hired someone instead of using Webflow/AI/templates?     Would you hire someone junior, and what would you trust them with?     What would make you reject an entry-level freelancer immediately?      Concrete stories are the most helpful. Thanks!     &#32; submitted by &#32;   /u/AdIllustrious8354       [link]   &#32;   [comments]",
+    "url": "https://www.reddit.com/r/smallbusiness/comments/1wtf02s/for_those_whove_hired_freelance_web_devs_why/",
     "score": 3
   },
   "latest": "AI request failed: HTTP 429 - {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient_quota\",\n        \"param\": null,\n        \"code\": \"credit_balance_exhausted\"\n    }\n}\n"
