@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-09-29T11:31:22.292144+00:00",
+  "updated_at": "2026-09-29T16:58:47.892195+00:00",
   "mode": "approval",
-  "signals": 1,
+  "signals": 2,
   "top_signal": {
-    "title": "How are startups handling WhatsApp when the conversations involve serious money?",
-    "summary": "We\u2019re a startup so naturally half the company runs through WhatsApp lol. It\u2019s quick and our customers already use it. The problem is we deal with high-end clients and some pretty high-value transactions. That makes me nervous about how much trust we put in a WhatsApp account. If a client\u2019s account gets compromised and we get a message changing payment details or approving something sensitive how are we supposed to know it\u2019s actually them? We\u2019ve looked at separate callbacks and verification through known contacts. I saw kibu while looking into this which takes the approach of establishing a trusted connection with the actual person and verifying them again when needed. There seem to be other identity and verification tools trying to solve parts of this too. I don\u2019t really want to replace WhatsApp because that\u2019s where people already are. I\u2019m more interested in having a separate verification layer for the few requests where getting it wrong could cost a lot. I wanna know what everyone thinks or any piece of advice will be super helpful.     &#32; submitted by &#32;   /u/troubledhorror       [link]   &#32;   [comments]",
-    "url": "https://www.reddit.com/r/smallbusiness/comments/1wsl1xw/how_are_startups_handling_whatsapp_when_the/",
-    "score": 4
+    "title": "Business partner fiduciary and contract breach",
+    "summary": "Hi - i have a small contracting business and had been working with a guy who I made a partner last year. He was a great employee and had a great attitude up until he was in charge on jobsites - then everything changed.   He quickly mis-quoted a project, then another one and all of a sudden we had lost ~$60k.    Because I needed someone with his skillset, and he kept insisting we would make it back, i kept him on. The business is very short on resources and even more so because of his 6 months of losses.   This summer I drew up and had him sign a contract that effectively made him a fiduciary and personally liable for business losses, on top of him already owing the business based on capital account balance. I was the sole determinant on if he was doing a good job. I told him basically if he can\u2019t agree to these terms I couldn\u2019t continue.    He asked for one concession which I granted because i\u2019m trying to make this work.   I started getting jobs lined up for this fall, and on the first one he decided to set the project up weirdly, and then just didn\u2019t show up the next day, leaving me and a new hire with a mess. I told him he had a fiduciary obligation to the company (given he was in charge of onsite responsibilities.   He added a snarky text comment to let me know he was going home after not showing up for the first 6 hours of the day. I told him he breached the contract and is no longer a partner even though he doesn\u2019t seem to think so (he absolutely did).   The contract is ",
+    "url": "https://www.reddit.com/r/smallbusiness/comments/1wta0er/business_partner_fiduciary_and_contract_breach/",
+    "score": 3
   },
   "latest": "AI request failed: HTTP 429 - {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient_quota\",\n        \"param\": null,\n        \"code\": \"credit_balance_exhausted\"\n    }\n}\n"
 }
