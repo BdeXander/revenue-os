@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-09-30T00:43:09.593397+00:00",
+  "updated_at": "2026-09-30T06:34:21.125116+00:00",
   "mode": "approval",
-  "signals": 1,
+  "signals": 3,
   "top_signal": {
-    "title": "How to do a MRO Bid /RFQ analysis and supplier selection more effectively",
-    "summary": "I'am a junior buyer and currently assist conducting a MRO bid with up to 1000 parts, even 80% of the spend still make 600-700 line items. Some distributors quoted equivalent alternatives. Some parts have a big pricing variance. I have a lot of data but not sure how to turn that to next step. 1, e.g after clean the data, should i ask give each supplier to walk through the costs, verify if it is accurate 2. can i tell them their price difference xx against the average or lowest? 3. how to ensure analysis and selection is fair given alternative parts? 4, should we verify the alternative parts of the lower bids only, request all alternative parts samples? 5, If two lower bid both meet basic technical requirements, lead time etc, do I negotiate with both and make recommendation? if so, do i negotiate entire bid or focusing on top line items to be competitive? any practical analysis and selection tips would be helpful and appreciated.     &#32; submitted by &#32;   /u/Sweaty_Ground_8584       [link]   &#32;   [comments]",
-    "url": "https://www.reddit.com/r/smallbusiness/comments/1wtpddn/how_to_do_a_mro_bid_rfq_analysis_and_supplier/",
-    "score": 3
+    "title": "Advice to address clients on a hiatus for personal reasons\u2026",
+    "summary": "hey all - so a little backstory, I have ran my own business for a little over seven years..In that time, a lot in my personal life has changed and most of it not for the good, particularly in the last couple..I really bent myself over backwards to keep pouring myself into it, all the while slipping further away from myself and taking care of my own health and digging into a deeper financial hole in the process. it all came to a head recently and I frankly had a straight up mental backdown from all of the financial pressure taking such a toll on me. it\u2019s been a real hard road but I pretty much hit the absolute bottom and landed on my ass hitting every branch on the way down. i have been struggling to come to terms with the situation but i had to remove myself entirely to selfishly focus on my own wellbeing for a change because the rate I was going at was slowly killing me inside. My work wasn\u2019t my best, I wasn\u2019t as motivated, I was slowly starting to truly resent what I did because I\u2019d lost so much joy in what I did. I was barely surviving.   i have kept my head fairly low to the ground about this situation aside from a few close friends and family, but I am in a real gutted position. I obviously never intended to find myself in this situation and feel an incredible amount of guilt that I am going to probably have to close the doors and take this on the chin. many have become great clients I consider good friends, some have become family. i know I need to address this publicly",
+    "url": "https://www.reddit.com/r/smallbusiness/comments/1wtxazt/advice_to_address_clients_on_a_hiatus_for/",
+    "score": 4
   },
   "latest": "AI request failed: HTTP 429 - {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient_quota\",\n        \"param\": null,\n        \"code\": \"credit_balance_exhausted\"\n    }\n}\n"
 }
