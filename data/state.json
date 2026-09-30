@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-09-29T21:20:25.608183+00:00",
+  "updated_at": "2026-09-30T00:43:09.593397+00:00",
   "mode": "approval",
-  "signals": 2,
+  "signals": 1,
   "top_signal": {
-    "title": "For those who've hired freelance web devs: why choose a junior over AI/no-code?",
-    "summary": "I'm an early-career freelance web dev. I can code well-defined tasks but I'm still building the judgment side (product decisions, tradeoffs). With AI tools and no-code builders, I'm trying to understand what makes a junior worth hiring.   If you've actually hired freelancers, I'd love to hear:      What problem were you solving when you hired someone instead of using Webflow/AI/templates?     Would you hire someone junior, and what would you trust them with?     What would make you reject an entry-level freelancer immediately?      Concrete stories are the most helpful. Thanks!     &#32; submitted by &#32;   /u/AdIllustrious8354       [link]   &#32;   [comments]",
-    "url": "https://www.reddit.com/r/smallbusiness/comments/1wtf02s/for_those_whove_hired_freelance_web_devs_why/",
+    "title": "How to do a MRO Bid /RFQ analysis and supplier selection more effectively",
+    "summary": "I'am a junior buyer and currently assist conducting a MRO bid with up to 1000 parts, even 80% of the spend still make 600-700 line items. Some distributors quoted equivalent alternatives. Some parts have a big pricing variance. I have a lot of data but not sure how to turn that to next step. 1, e.g after clean the data, should i ask give each supplier to walk through the costs, verify if it is accurate 2. can i tell them their price difference xx against the average or lowest? 3. how to ensure analysis and selection is fair given alternative parts? 4, should we verify the alternative parts of the lower bids only, request all alternative parts samples? 5, If two lower bid both meet basic technical requirements, lead time etc, do I negotiate with both and make recommendation? if so, do i negotiate entire bid or focusing on top line items to be competitive? any practical analysis and selection tips would be helpful and appreciated.     &#32; submitted by &#32;   /u/Sweaty_Ground_8584       [link]   &#32;   [comments]",
+    "url": "https://www.reddit.com/r/smallbusiness/comments/1wtpddn/how_to_do_a_mro_bid_rfq_analysis_and_supplier/",
     "score": 3
   },
   "latest": "AI request failed: HTTP 429 - {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient_quota\",\n        \"param\": null,\n        \"code\": \"credit_balance_exhausted\"\n    }\n}\n"
