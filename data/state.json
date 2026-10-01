@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-10-01T07:40:54.871608+00:00",
+  "updated_at": "2026-10-01T15:22:17.766243+00:00",
   "mode": "approval",
-  "signals": 3,
+  "signals": 4,
   "top_signal": {
-    "title": "Switching from 3 programs to one program",
-    "summary": "Hey Everyone -   Breakdown   I am currently using a Scheduling Program, POS program and an Email marketing program - 3 different platforms.   I am thinking of moving to  mangomint .    I am really struggling with this aspect of my business. I am using  Setmore for booking  which is great yet that is all it is, a booking program.    Setmore is integrated to  Squareup for POS  - but it does not sync completely with Squareup so when I get monthly Squareup reports, lots of items are Uncategorized. I have told Setmore this.    I also have an  email marketing program, Mailerlite , and it too integrates with Setmore, but I am really bad at it and don't do it. I lost the person I hired to help me, but they had to stop working with me due to family stuff.    Also, Squareup tracks your location whenever you use it, which means I can be at home using it for messages and I don't find that necessary, weird.   Last, the I have been having a hard time connecting my Squareup reader (tap to pay) to my phones. Granted I have 2 different scheduling programs connected to the same Squareup acct. so I wonder if that is the issue.    I am thinking of switching to  mangomint.  Has anyone used this program. One of the things I learned is that you can custom time schedule clients, which would be huge for me. It also has email marketing for a small fee and it has it's POS system. I would do everything under one roof.   The problem is that it is expensive. I currently pay $22/month for Setmore and Squar",
-    "url": "https://www.reddit.com/r/smallbusiness/comments/1wut6bx/switching_from_3_programs_to_one_program/",
-    "score": 4
+    "title": "Online Accounting",
+    "summary": "Looking for updated reviews or recommendations for online or remote accounting like Collective, lettuce, etc. (the last post on here seemed to be a few years ago).    Background, I'm currently under a partnership LLC my wife and I formed a few years ago. Thanks to a recent layoff, I'm now working on my own and luckily doing pretty well to start. I need to either change my current LLC or form a new one, figure out my tax strategy for this year, and would like to be ready for S-corp election next year.    I'm not sure if something like collective to could help solve my problem, but a few local CPAs I talked to are very expensive. ($4k / year for just returns and probably another $2-4k for planning, strategy, LLC formations... and wouldn't even include book keeping and payroll). I'd love to work with someone local but I also don't want to pay $10k+/year against a +/- $250k revenue.     &#32; submitted by &#32;   /u/OrangeArch       [link]   &#32;   [comments]",
+    "url": "https://www.reddit.com/r/smallbusiness/comments/1wv0p95/online_accounting/",
+    "score": 5
   },
   "latest": "AI request failed: HTTP 429 - {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient_quota\",\n        \"param\": null,\n        \"code\": \"credit_balance_exhausted\"\n    }\n}\n"
 }
