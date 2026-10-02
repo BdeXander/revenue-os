@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-10-02T00:06:31.327446+00:00",
+  "updated_at": "2026-10-02T05:26:34.733103+00:00",
   "mode": "approval",
   "signals": 2,
   "top_signal": {
-    "title": "How much of your week do you spend on tasks you could hand off? I tracked mine and was shocked",
-    "summary": "Did a quick time audit this week \u2014 logged every 30-minute block for 5 days. Turns out about 35% of my time was going toward things like fielding inquiries, chasing documents, scheduling, and onboarding follow-ups. None of it bad work, just not revenue-generating work.   Started thinking about it as a staffing problem: if I had a small ops team, I'd have one person on inbound inquiries, one on paperwork and records, one on calendar and follow-ups. The business actually needs those roles \u2014 I just can't justify staffing all three.   Has anyone found a good solution for this? I've been experimenting with AI agents to automate some of these slots and it's helped, but curious what approaches others have taken. Do you delegate to part-timers, use automation tools, or just accept that it's part of running a lean operation?     &#32; submitted by &#32;   /u/bailbondslocal       [link]   &#32;   [comments]",
-    "url": "https://www.reddit.com/r/smallbusiness/comments/1wv6ll1/how_much_of_your_week_do_you_spend_on_tasks_you/",
-    "score": 3
+    "title": "Need advice about employee",
+    "summary": "I started my business just under seven years ago. It is a day spa offering lash, brow, wax, and skin services. Up until about three months ago, it had just been me wearing all the hats and doing all the services. I\u2019ve been incredibly fortunate to grow enough that I was able to move into a storefront, expand our services, and hire estheticians.  I want my spa to be a good work environment for its staff, and I want both employees and clients to feel good about coming here. Unfortunately, I\u2019m having a few issues with one employee, and I\u2019m struggling to figure out whether these are normal growing pains with a new employee or signs that this simply isn\u2019t a good fit.  During the interview process, she told me that she was newly moving to the area, fresh out of school, and has two young children at home whom she needs to be home with during the week. She was looking for a part-time position that worked with her partial SAHM schedule. I told her that wasn\u2019t a problem, and we worked out a schedule that seemed to work for both of us.  She was hired to work Friday from 3:30 p.m.\u20138:00 p.m., plus Saturday and Sunday from 10:00 a.m.\u20136:30 p.m. I hired her at a 50/50 commission rate plus tips and told her that I\u2019m very understanding when things come up\u2014sick children, being out of town, family obligations, etc.\u2014but that I needed to know about those things ahead of time and, whenever possible, before clients had been booked on her schedule for those days.  She signed an employment contract out",
+    "url": "https://www.reddit.com/r/smallbusiness/comments/1wvi0zl/need_advice_about_employee/",
+    "score": 5
   },
   "latest": "AI request failed: HTTP 429 - {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient_quota\",\n        \"param\": null,\n        \"code\": \"credit_balance_exhausted\"\n    }\n}\n"
 }
