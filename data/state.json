@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-10-01T20:27:26.389348+00:00",
+  "updated_at": "2026-10-02T00:06:31.327446+00:00",
   "mode": "approval",
-  "signals": 4,
+  "signals": 2,
   "top_signal": {
-    "title": "Online Accounting",
-    "summary": "Looking for updated reviews or recommendations for online or remote accounting like Collective, lettuce, etc. (the last post on here seemed to be a few years ago).    Background, I'm currently under a partnership LLC my wife and I formed a few years ago. Thanks to a recent layoff, I'm now working on my own and luckily doing pretty well to start. I need to either change my current LLC or form a new one, figure out my tax strategy for this year, and would like to be ready for S-corp election next year.    I'm not sure if something like collective to could help solve my problem, but a few local CPAs I talked to are very expensive. ($4k / year for just returns and probably another $2-4k for planning, strategy, LLC formations... and wouldn't even include book keeping and payroll). I'd love to work with someone local but I also don't want to pay $10k+/year against a +/- $250k revenue.     &#32; submitted by &#32;   /u/OrangeArch       [link]   &#32;   [comments]",
-    "url": "https://www.reddit.com/r/smallbusiness/comments/1wv0p95/online_accounting/",
-    "score": 5
+    "title": "How much of your week do you spend on tasks you could hand off? I tracked mine and was shocked",
+    "summary": "Did a quick time audit this week \u2014 logged every 30-minute block for 5 days. Turns out about 35% of my time was going toward things like fielding inquiries, chasing documents, scheduling, and onboarding follow-ups. None of it bad work, just not revenue-generating work.   Started thinking about it as a staffing problem: if I had a small ops team, I'd have one person on inbound inquiries, one on paperwork and records, one on calendar and follow-ups. The business actually needs those roles \u2014 I just can't justify staffing all three.   Has anyone found a good solution for this? I've been experimenting with AI agents to automate some of these slots and it's helped, but curious what approaches others have taken. Do you delegate to part-timers, use automation tools, or just accept that it's part of running a lean operation?     &#32; submitted by &#32;   /u/bailbondslocal       [link]   &#32;   [comments]",
+    "url": "https://www.reddit.com/r/smallbusiness/comments/1wv6ll1/how_much_of_your_week_do_you_spend_on_tasks_you/",
+    "score": 3
   },
   "latest": "AI request failed: HTTP 429 - {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient_quota\",\n        \"param\": null,\n        \"code\": \"credit_balance_exhausted\"\n    }\n}\n"
 }
