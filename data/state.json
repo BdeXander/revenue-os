@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-10-04T14:19:08.603691+00:00",
+  "updated_at": "2026-10-04T18:18:59.287591+00:00",
   "mode": "approval",
-  "signals": 5,
+  "signals": 4,
   "top_signal": {
-    "title": "Need a website for your business/project?",
-    "summary": "&#x200b;   Hey everyone, I\u2019ve been building modern websites for businesses, startups, creators, and personal projects.   I can help with:   - Modern, responsive websites   - Landing pages   - Business/service websites   - Portfolio websites   - E-commerce   - CMS/admin panels   -Deployment &amp; domain setup   I focus on clean design, good performance, and making the site actually useful for the business \u2014 not just making something that looks good.   If you\u2019re looking for a website or want to improve an existing one, feel free to hire me, you can see my previous project in personal message.   Happy to discuss your idea and give you a straightforward quote.   (P.s. it costs less than 250 dollars)     &#32; submitted by &#32;   /u/StatementOdd7170       [link]   &#32;   [comments]",
-    "url": "https://www.reddit.com/r/smallbusiness/comments/1wxcdpm/need_a_website_for_your_businessproject/",
-    "score": 5
+    "title": "Looking for a reliable courier for a very large box from London to Northern Ireland, UK",
+    "summary": "Hi everyone,   I need to send one large box from London to Northern Ireland and I'm struggling to find a standard courier that will accept the dimensions.   The box is:      130 cm long     96 cm wide     95 cm deep     12 kg     1 box      I'm mainly looking for a  reliable service that can collect from London and deliver to Northern Ireland . I'm not too concerned about getting the absolute cheapest price \u2014 reliability and getting it there safely are more important.   Has anyone sent something this large from London to NI before? If so, which courier/freight company did you use?   I'd really appreciate any recommendations or suggestions for companies that handle oversized parcels.   Thanks!     &#32; submitted by &#32;   /u/PossiblePoet9495       [link]   &#32;   [comments]",
+    "url": "https://www.reddit.com/r/smallbusiness/comments/1wxgbec/looking_for_a_reliable_courier_for_a_very_large/",
+    "score": 4
   },
   "latest": "AI request failed: HTTP 429 - {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient_quota\",\n        \"param\": null,\n        \"code\": \"credit_balance_exhausted\"\n    }\n}\n"
 }
