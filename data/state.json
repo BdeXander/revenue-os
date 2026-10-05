@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-10-04T21:51:40.321795+00:00",
+  "updated_at": "2026-10-05T00:43:04.164776+00:00",
   "mode": "approval",
   "signals": 3,
   "top_signal": {
-    "title": "Canada-based, with suppliers in India who'll work with me as partners. What products would you start with on a small budget?",
-    "summary": "I'm in Canada and I have good supplier contacts in India. They'd rather build something with me than just ship me a pallet, so the setup is closer to a partnership than a standard buy-and-resell deal. I'll sort out the structure separately. Right now I want to get the product right.   I can source almost anything except industrial and engineering goods, which need more capital than I want to put in upfront. Everything else is on the table.   What I'm looking for is a product that:     Costs little to test, with small first orders   Has a real price or quality edge from India   Won't get eaten by duties, shipping, or returns on the way into Canada     I'd like to hear from anyone who's imported from India or run a similar setup. What sold? What sat in storage? What looked great on paper and fell apart once customs and shipping were counted?   Categories I'm curious about: textiles and home goods, spices and food, handicrafts, wellness and personal care, apparel. Tell me if I'm missing an obvious one or if one of these is a trap.   Real numbers and war stories welcome, including the ugly ones.     &#32; submitted by &#32;   /u/TheListeningSoul       [link]   &#32;   [comments]",
-    "url": "https://www.reddit.com/r/smallbusiness/comments/1wxhx35/canadabased_with_suppliers_in_india_wholl_work/",
-    "score": 3
+    "title": "Looking for a US 3PL recommendation: Shopify integration, multichannel (TikTok Shop, Amazon), small volume",
+    "summary": "I'm launching a new e-commerce brand in the US and I'm looking for a 3PL/warehouse recommendation. I'm based outside the US, so I'd handle everything remotely.    What I need:      Receive my imported inventory (shipping from Asia)   Store it and fulfill orders   Integration with Shopify   Also connects with TikTok Shop and Amazon (MCF or FBA prep), ideally Walmart later   Works with small volumes at the start, no huge minimums   Good dashboard and support, since I'll be managing everything online   Bonus if they can help with or recommend a customs broker for the import side      Which 3PLs have you worked with that are startup-friendly and actually reliable?  Also curious about rough pricing (receiving, storage, pick &amp; pack) and any red flags to watch out for.    Thanks in advance!      &#32; submitted by &#32;   /u/Ashamed_Wear_7810       [link]   &#32;   [comments]",
+    "url": "https://www.reddit.com/r/smallbusiness/comments/1wxuwue/looking_for_a_us_3pl_recommendation_shopify/",
+    "score": 4
   },
   "latest": "AI request failed: HTTP 429 - {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient_quota\",\n        \"param\": null,\n        \"code\": \"credit_balance_exhausted\"\n    }\n}\n"
 }
