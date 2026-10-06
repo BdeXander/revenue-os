@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-10-06T09:19:25.550967+00:00",
+  "updated_at": "2026-10-06T16:12:49.196533+00:00",
   "mode": "approval",
-  "signals": 5,
+  "signals": 4,
   "top_signal": {
-    "title": "Payment Processor for multi-currency international ecommerce",
-    "summary": "I am looking for an alternative payment processor that is reliable and does not create unnecessary disruption through lengthy or poorly managed account reviews.   I have absolutely nothing against KYC checks, compliance reviews, or requests for additional documentation. I understand that these are a necessary part of payment processing. However, I recently dealt with a European payment processor that handled both our online and retail transactions, and the way their review was conducted caused significant disruption to our business.   Our account was suddenly placed under review and payment acceptance was temporarily paused. We provided all of the requested documents relating to our company, retail store, and business operations. The main issue was that, instead of providing a complete list of requirements from the beginning, their compliance team kept requesting additional documents across multiple separate emails.   This unnecessarily extended the review process and left us unable to accept payments while waiting for their team to process documents.   Their customer support/compliance team ultimately took around two weeks to complete the review and reactivate our account. While the account was eventually restored, I still find that level of disruption unacceptable for a business that depends on payment processing every day.   The problem goes beyond simply losing transactions during the review. When payment processing is suspended, we also have to pause our Meta advertising",
-    "url": "https://www.reddit.com/r/smallbusiness/comments/1wyrbr0/payment_processor_for_multicurrency_international/",
+    "title": "Free Marketing Makover Casting Call",
+    "summary": "SMALL BUSINESS OWNERS: I\u2019m looking for one business that needs a marketing makeover.   I\u2019m looking for one small business that will let me rethink its branding, website and marketing at no cost\u2014and document it for our soical portfolio    Depending on what the business needs, the makeover could include:   \u2022 Branding and messaging  \u2022 Website or e-commerce improvements  \u2022 Social media and content strategy  \u2022 Marketing campaign ideas  \u2022 A practical growth plan   There is no purchase requirement and no obligation to hire me afterward. The selected business would need to be comfortable appearing on camera and allowing us to share the process and results publicly.   Interested? Post the name of your business with you URL and my team will review. Thanks!     &#32; submitted by &#32;   /u/viciplusnelly       [link]   &#32;   [comments]",
+    "url": "https://www.reddit.com/r/smallbusiness/comments/1wz54hz/free_marketing_makover_casting_call/",
     "score": 4
   },
   "latest": "AI request failed: HTTP 429 - {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient_quota\",\n        \"param\": null,\n        \"code\": \"credit_balance_exhausted\"\n    }\n}\n"
