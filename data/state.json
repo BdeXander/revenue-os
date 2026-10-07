@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-10-06T21:10:17.752283+00:00",
+  "updated_at": "2026-10-07T00:58:30.386912+00:00",
   "mode": "approval",
-  "signals": 5,
+  "signals": 7,
   "top_signal": {
-    "title": "New Business Phone Service",
-    "summary": "I am opening a new business but am struggling with finding a phone provider for the business. Unfortunately, we cannot get approved for a phone line through AT&amp;T or another company that requires credit checks since we are brand new and have no credit yet.   We were originally going with Spectrum but their customer service has been less than helpful and we cannot even get the equipment we need.   It is a 2 person business located in Wichita KS and we just need a single phone. Any recommendations for services? We are open to options such as Ring Central, Ooma Office, etc. But are nervous about the reviews we've seen for Android devices.     &#32; submitted by &#32;   /u/oledingus       [link]   &#32;   [comments]",
-    "url": "https://www.reddit.com/r/smallbusiness/comments/1wzc8wv/new_business_phone_service/",
+    "title": "Data regarding adding sales tax to the price tag.",
+    "summary": "TL:DR I want to add sales tax to price tags in my future retail establishment, my Dad(partner in the business) doesn't. I'm looking for data to show which way is actually better. This is in Minnesota btw.   I am starting a hardware store and coffee shop with my Dad and we had quite the lengthy debate today. I am a proponent of the EU way of pricing that must include sales tax to show the total cost of an item. My Dad is staunchly against this, despite actually preferring it when hes traveled to Europe(Don't ask me how he does the mental gymnastics).   I made several compelling arguments for why its preferable to include tax in pricing, including: Its easier to shop as a consumer, its easy to round prices to reduce change that needs to be counted, its how civilized nations do it and we should follow suit. His response is: The US has never done that and people will find it weird so we shouldn't because it will drive them away from the store.    When I asked for an answer that was something other than &quot;Its always been that way so why be different?&quot; He said he doesn't have to give one because its up to me to prove I'm correct. The problem is I can't find any data that says either way is correct or incorrect.   I would appreciate any insight that can be given. Thanks!.     &#32; submitted by &#32;   /u/Daratirek       [link]   &#32;   [comments]",
+    "url": "https://www.reddit.com/r/smallbusiness/comments/1wzglxx/data_regarding_adding_sales_tax_to_the_price_tag/",
     "score": 4
   },
   "latest": "AI request failed: HTTP 429 - {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient_quota\",\n        \"param\": null,\n        \"code\": \"credit_balance_exhausted\"\n    }\n}\n"
