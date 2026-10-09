@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-10-09T06:34:49.345409+00:00",
+  "updated_at": "2026-10-09T13:40:53.813425+00:00",
   "mode": "approval",
-  "signals": 2,
+  "signals": 3,
   "top_signal": {
-    "title": "What are hidden cost and headaches to hiring your first employee?",
-    "summary": "I'm a very small business, but I think I'm reaching the point where I need to hire a part-time employee to help me. I know bringing someone on is a lot of work, but I'm struggling with the known unknowns and unknown unknowns side of hiring an employee.    Is there a specific expert I should talk to who can help? My state has a lot of resources for business owners; should I start there first to see if they can guide me through the process and what I should worry about?     &#32; submitted by &#32;   /u/lil_tink_tink       [link]   &#32;   [comments]",
-    "url": "https://www.reddit.com/r/smallbusiness/comments/1x143fk/what_are_hidden_cost_and_headaches_to_hiring_your/",
-    "score": 5
+    "title": "How would you build a sales pipeline for a ~$180K IT services company with no established sales network?",
+    "summary": "I'm a co-founder of a small tech services company in India, currently doing around \u20b91.5 crore (~$180K) in business. We work across data engineering, analytics, and AI.   We've managed to get here without a formal sales function. Most of our existing clients came from relationships and people we'd worked with previously. We've built a solid delivery team and have proven that we can deliver, but now we're struggling with the next challenge: building a predictable sales pipeline beyond our existing network.   The problem is that none of our founding team has a strong industry network or a background in enterprise sales. We're technical founders who figured out how to build the business, but selling consistently to new enterprise clients is a different game.   Here's what I've been considering:      Outbound prospecting:  Cold email and LinkedIn outreach, although I'm skeptical about how effective these are for landing enterprise IT services contracts without referrals or credibility.    Outsourced sales agencies:  Not sure whether they can actually sell complex technical services or will just generate low-quality meetings.    Hiring a senior sales leader:  The compensation expectations of someone experienced enough to bring enterprise deals could eat up a significant portion of our revenue.    Finding a sales partner:  Someone with an established network who could help us open doors, potentially through a partnership or commission-based arrangement.     For those who've built sa",
+    "url": "https://www.reddit.com/r/smallbusiness/comments/1x1hn3r/how_would_you_build_a_sales_pipeline_for_a_180k/",
+    "score": 6
   },
   "latest": "AI request failed: HTTP 429 - {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient_quota\",\n        \"param\": null,\n        \"code\": \"credit_balance_exhausted\"\n    }\n}\n"
 }
