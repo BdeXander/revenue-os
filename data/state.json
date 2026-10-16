@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-10-16T09:13:50.311413+00:00",
+  "updated_at": "2026-10-16T14:09:52.056185+00:00",
   "mode": "approval",
-  "signals": 5,
+  "signals": 4,
   "top_signal": {
-    "title": "How do small businesses decide which numbers to trust when revenue is growing but cash keeps getting tighter?",
-    "summary": "A business can report stronger sales every month and still find itself struggling to cover payroll, supplier payments, or tax obligations. Sometimes the issue is slow collections; other times, inventory, customer payment terms, or growth expenses are absorbing cash faster than expected.   What makes this difficult is that the business may look healthy on paper, and cutting costs or pushing for more sales doesn't necessarily solve the underlying problem.   For owners who have experienced this, what was the metric or early warning sign that helped you identify the real issue before it became a serious cash-flow problem? Was it cash conversion, receivables ageing, contribution margin, or something less obvious?     &#32; submitted by &#32;   /u/SmartTechInsights       [link]   &#32;   [comments]",
-    "url": "https://www.reddit.com/r/smallbusiness/comments/1x794m7/how_do_small_businesses_decide_which_numbers_to/",
-    "score": 5
+    "title": "My childhood friends and I started a business together, but one friend's father is treating us like employees. I'm considering walking away. Am I overreacting?",
+    "summary": "I'm looking for honest, unbiased advice because I'm dealing with a situation that's affecting both my business and a childhood friendship.   A while ago, two childhood friends and I decided to start a small IT business together. Two of us handle the technical side, including developing websites, software, and other digital solutions. Our third friend isn't from a technical background and also has a separate job, so his day-to-day contribution to the technical work is different from ours.   Initially, I was genuinely excited. Building something of our own with friends we've known for years sounded like a great opportunity.   However, things have gradually started going in a direction I never expected.    The main issue is our third friend's father.    He's become heavily involved in our business discussions. Whenever we meet him, he asks about our clients, our progress, and whether we've updated his son about everything.   At first, I thought he was simply trying to help us grow. He often speaks positively about us and gives us motivational advice. But over time, I've started feeling that there's an underlying expectation that his son should be the face of the business while the other two of us handle all the technical work behind the scenes.   He's explicitly said things along the lines of, &quot;Let him handle the clients, and you guys work in the backend.&quot;   He's also commented that we don't have the etiquette to communicate with clients and that we should let his son ",
+    "url": "https://www.reddit.com/r/smallbusiness/comments/1x79pf9/my_childhood_friends_and_i_started_a_business/",
+    "score": 4
   },
   "latest": "AI request failed: HTTP 429 - {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient_quota\",\n        \"param\": null,\n        \"code\": \"credit_balance_exhausted\"\n    }\n}\n"
 }
