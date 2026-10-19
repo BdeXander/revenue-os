@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-10-18T22:32:48.603984+00:00",
+  "updated_at": "2026-10-19T00:25:11.952697+00:00",
   "mode": "approval",
-  "signals": 1,
+  "signals": 3,
   "top_signal": {
-    "title": "How do you keep track of quotes that go quiet? (Honest question)",
-    "summary": "I help run my family\u2019s electrical contracting business. We send a lot of quotes by email and I\u2019ve noticed the same thing: most customers who don\u2019t reply aren\u2019t saying no, they\u2019re just busy, and then we forget to follow up.   For those of you who send quotes or invoices: what do you actually do? Notebook, spreadsheet, CRM, memory? How many quotes do you think slip through in a typical month?   I\u2019m a developer too and I\u2019m exploring this problem. Not selling anything, I just want to hear how people really handle it, including \u201cI don\u2019t have a problem with this\u201d \ud83d\ude42     &#32; submitted by &#32;   /u/aloiszitler       [link]   &#32;   [comments]",
-    "url": "https://www.reddit.com/r/smallbusiness/comments/1x9elm6/how_do_you_keep_track_of_quotes_that_go_quiet/",
+    "title": "UPDATE Would You Sell to this Buyer? Help!!",
+    "summary": "Update! I was ready to proceed with the sale, and then I received this email and without much shipping experience, I have no idea if this is a legitimate thing or not:   I am on the checkout page and about to fill out the address to send to. Please let me know what carrier you are using as it determines how I make out my address. If using USPS I will need to provide a different address than if you use Fedex or UPS. It\u2019s weird I know. It\u2019s just that I send all my mail to my post office.. USPS does not want a street address and so you won\u2019t be able to ship it out.    So if you would please let me know asap so I can fill out your shipping form properly and then I can finish up checking out. . Thanks!   THEN as I was making this update, she purchased it using the address of the post office (which I confirmed) and sent me this follow up:   Hi, I went ahead and checked out using my full address. Just so you are aware, if you use USPS do not use the my post office\u2019s street address. The system will reject this. So here is how to address it if using USPS   (Address with post office street address)   If using Fedex of UPS address it as follows:   (Address without the post office street address)   She paid through Paypal, addresses match, she's a verified buyer, and seller protection is enabled. I feel like this all just gives me more evidence in case she tries to do a chargeback, but I don't want to get scammed! Does this seem legitimate or am I being naive here?   I have a relatively ",
+    "url": "https://www.reddit.com/r/smallbusiness/comments/1x9i4pu/update_would_you_sell_to_this_buyer_help/",
     "score": 3
   },
   "latest": "AI request failed: HTTP 429 - {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient_quota\",\n        \"param\": null,\n        \"code\": \"credit_balance_exhausted\"\n    }\n}\n"
