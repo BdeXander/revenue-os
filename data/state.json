@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-10-21T07:26:17.495169+00:00",
+  "updated_at": "2026-10-21T13:08:25.672337+00:00",
   "mode": "approval",
-  "signals": 2,
+  "signals": 4,
   "top_signal": {
-    "title": "Thinking about offering payment plans. No idea how to avoid the financial fallout.",
-    "summary": "I run a small web design business on the side while in grad school full time, so my hours are limited. It\u2019s been a year, with steady clients since February, repeat customers, and no bad reviews.   I did some market research, and the clearest signal from prospects was that they\u2019d hire me if I offered payment plans. I can\u2019t afford to front-load work and wait on payments, and I\u2019ve dealt with late ones. For my next client, I\u2019m testing a 50-30-20 split: 50% at kickoff, 30% before development starts, and 20% before launch.   For other freelancers and service-business owners:  Does that structure hold up, or would you change it?   What do you do when a payment is late or a card fails?   What tools do you use for saving a card and scheduling installments?    I\u2019m fine paying a small monthly fee if it\u2019s worth it, or doing a bit more manual work to keep costs down.  I\u2019m not looking for coaching or courses, just real experience from people who\u2019ve dealt with this.   Thanks!     &#32; submitted by &#32;   /u/ProtagonistNProgress       [link]   &#32;   [comments]",
-    "url": "https://www.reddit.com/r/smallbusiness/comments/1xbbs09/thinking_about_offering_payment_plans_no_idea_how/",
-    "score": 3
+    "title": "Built a $6\u20137k/month business but can't scale beyond myself. Should I keep trying or get a job and start over?",
+    "summary": "I'm 36, based in northern Europe, and have been running my own language education business for a few years. I'm at a crossroads and would appreciate advice from entrepreneurs who've faced something similar.    Some background:    I started teaching my mother tongue to expats and eventually turned it into a business. I've developed a structured curriculum, built a website, figured out paid advertising, established a sales process, and built a customer base.   During decent months, the business generates around $6\u20137k in revenue. I've also landed larger corporate contracts.   So there's clearly demand. But despite all this,  I'm still the business.  I handle marketing, sales, customer relationships, administration, and most of the teaching.   I'm increasingly questioning whether I've built a business or just created a demanding job for myself.    Problem 1: The business is interfering with my personal life.    Most customers are working professionals who want evening lessons. My girlfriend gets home around 6 PM, which is often exactly when I start teaching, sometimes until 10 PM.   We barely see each other on those evenings, and it's becoming a real problem.   I got into entrepreneurship partly for the freedom, but right now I have less control over my schedule than I would with a regular job. I don't want this to be my lifestyle for the next five years.    Problem 2: I've tried delegating, but customer retention suffered.    The obvious solution is hiring teachers and focusing ",
+    "url": "https://www.reddit.com/r/smallbusiness/comments/1xbljo6/built_a_67kmonth_business_but_cant_scale_beyond/",
+    "score": 4
   },
   "latest": "AI request failed: HTTP 429 - {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient_quota\",\n        \"param\": null,\n        \"code\": \"credit_balance_exhausted\"\n    }\n}\n"
 }
