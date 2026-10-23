@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-10-23T06:25:53.295914+00:00",
+  "updated_at": "2026-10-23T11:58:05.802844+00:00",
   "mode": "approval",
-  "signals": 6,
+  "signals": 4,
   "top_signal": {
-    "title": "I have 5+ years of software engineering experience. Looking for a real business problem to solve \u2014 completely free.",
-    "summary": "Hey everyone!   I'm a software engineer from India with 5+ years of experience building software applications, backend systems, APIs, integrations, and production-ready solutions.   I've been thinking about something lately.    Building software is becoming cheaper and easier than ever. But understanding what a business actually needs? That's still the difficult part.    Almost every business uses some kind of software today. But generic software doesn't always solve the specific problems that come up in day-to-day operations.   Maybe you're still managing something manually in Excel. Maybe your employees spend hours doing repetitive work. Maybe two systems don't communicate with each other. Or maybe there's a problem you've just learned to live with because you couldn't find the right software.    That's where I'd like to help.    I'm looking for business owners who have real operational problems that could potentially be solved with software.   Here's what I'm offering:     I'll spend time understanding your business, workflows, and the actual problem.   If you're located nearby, I'm happy to visit your workplace and spend a few days observing how things work, if practical.   If you're elsewhere, we can discuss everything remotely.   If there's a feasible solution, I'll design and build it.   I'll help deploy it, stabilize it in production, document it, and hand it over to you or your team.      I'm not charging anything for my time or development work.  We would agree on t",
-    "url": "https://www.reddit.com/r/smallbusiness/comments/1xd60cl/i_have_5_years_of_software_engineering_experience/",
-    "score": 5
+    "title": "Software stack for new business",
+    "summary": "Hello fellow travelers!    I am starting a business renting out indoor plants to offices. I have the wholesale product supply &amp; knowledge locked down but need help with best software tools.    We will be renting out indoor plants, monthly fee. As part of this we will be doing visits every 2 weeks to feed, water, prune, and replace plants as necessary.   I\u2019m in Arizona if it makes a difference.    What tools do you recommend to track inventory, track the product at clients, and also to track that our team members are actually visiting each plant at each client location? (This is my key concern).    Plus integration with a CRM, lead tracking, billing etc. Thanks for your thoughts!     &#32; submitted by &#32;   /u/PotatoMammoth3228       [link]   &#32;   [comments]",
+    "url": "https://www.reddit.com/r/smallbusiness/comments/1xd9gfm/software_stack_for_new_business/",
+    "score": 3
   },
   "latest": "AI request failed: HTTP 429 - {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient_quota\",\n        \"param\": null,\n        \"code\": \"credit_balance_exhausted\"\n    }\n}\n"
 }
