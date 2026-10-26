@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-10-26T00:04:55.388866+00:00",
+  "updated_at": "2026-10-26T04:33:32.169439+00:00",
   "mode": "approval",
-  "signals": 5,
+  "signals": 2,
   "top_signal": {
-    "title": "Need More Customers? Don't Ignore These Platforms.",
-    "summary": "Hi,   As we know that the internet has changed dramatically since AI tools became publicly available. Until 2023, the formula was pretty straightforward. Rank your website on Google's first page, and boom.. Thousands of leads per month.    [Note:   If you've outsourced your marketing, make sure your agency follows these methods. Otherwise, you're paying for marketing while missing out on opportunities to grow your business. ]   But now, search methods have diversified. People are searching for businesses on ChatGPT, Gemini, Perplexity, and other platforms. Customers' journey doesn't start with Google only.   So, if you want more customers, here's what you need to do.   ________    1. Get your business discovered everywhere:  Don't depend entirely on Google rankings. Build visibility across Google, ChatGPT, Gemini, Perplexity, and the other platforms your potential customers use.    Why it matters : when people search for a service, compare businesses, or ask AI for recommendations, you want your business to have a chance to be discovered. AI recommendations are considered more seriously than even influencers.   __________    2. Now, You Must Understand how to get your business mentioned and cited:  Look at the image attached in the comment. ChatGPT and Google AI Mode mention many of the same brands, but they cite different sources.   Reddit and Wikipedia account for 50.7% of the citation share shown for ChatGPT across the five sources listed, while YouTube and Facebook accoun",
-    "url": "https://www.reddit.com/r/smallbusiness/comments/1xfa91l/need_more_customers_dont_ignore_these_platforms/",
-    "score": 5
+    "title": "Apps to manage multiple small businesses projects and needs?",
+    "summary": "Hello guys,   I run 3 small business, with 2 employees each and I've used microsoft to do for daily tasks. I'm struggling beacause I don't have a project view, to have notes and to schedulled what's needed to complete that specified project. If I didn't finish a specific task it goes to the past events so after a year or two, I have a lot of task that I haven't done and it's a mess. Sometimes I lost the way and don't see what's missing, and what's to be done.   So how do you guys keep track on what you need to do next to run your business?   I really like to work with the mobile phose, as I'm always runing between those 3 business.   Give me your suggestions please.     &#32; submitted by &#32;   /u/BrummBrumm7       [link]   &#32;   [comments]",
+    "url": "https://www.reddit.com/r/smallbusiness/comments/1xf901b/apps_to_manage_multiple_small_businesses_projects/",
+    "score": 3
   },
   "latest": "AI request failed: HTTP 429 - {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient_quota\",\n        \"param\": null,\n        \"code\": \"credit_balance_exhausted\"\n    }\n}\n"
 }
