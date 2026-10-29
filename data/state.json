@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-10-29T05:32:45.135032+00:00",
+  "updated_at": "2026-10-29T11:41:34.724113+00:00",
   "mode": "approval",
-  "signals": 4,
+  "signals": 2,
   "top_signal": {
-    "title": "What do I do about our terrible staff?",
-    "summary": "My (mid-20s F) parents have owned/operated a consignment retail business for over 20 years.   For the first 3-4 years, my dad was the one who did practically everything. Monthly accounting, opening/closing, running register most days, renting space to consignees, and buying product/pricing product/stocking our side of the stores (we have three active locations).   Over the years, he found trusted/competent managers who kept things running pretty smoothly until COVID hit. We had to temporarily shut down two of our locations for a couple of months because they were not \u201cnecessary businesses\u201d. After reopening, our good managers slowly began quitting because they were not being paid to adequately match rapidly rising costs of living.   Since this, we have had very lackluster management and our general employees, that have been with us for YEARS, have become very comfortable doing the wrong things.   Both of my parents have grown attached to these employees and consider them friends. However, our business is going downhill - FAST. Customers are starting to leave bad reviews because the employees are rude, not helpful, and they don\u2019t use good judgement when it comes to dealing with delicate situations with consignees or customers.   I have since taken over managing ALL THREE locations because the management we have now is, to put it mildly, incompetent. However, they are still with us and being paid the same as me (but that\u2019s a topic for another time - haha).   Within the past two ",
-    "url": "https://www.reddit.com/r/smallbusiness/comments/1xia2uc/what_do_i_do_about_our_terrible_staff/",
-    "score": 6
+    "title": "Small team, more work than we can handle. How do you hire the first employee well?",
+    "summary": "My co-founder and I have run Luxeia for a while, and the growth is outpacing us. We want our first hires to be people who care as much as we do. We\u2019ve launched a crowdfunder to help pay for it. My biggest worry right now is the aftercare. When we are on-site delivering a project the client is receiving 100% of our time and energy, but after that the next project rolls in and we become stretched on the aftercare. Any advice on that first hire is welcome.    https://www.crowdfunder.co.uk/p/luxeia-smart-homes      &#32; submitted by &#32;   /u/LuxeiaSmartHomes       [link]   &#32;   [comments]",
+    "url": "https://www.reddit.com/r/smallbusiness/comments/1xihm3l/small_team_more_work_than_we_can_handle_how_do/",
+    "score": 3
   },
   "latest": "AI request failed: HTTP 429 - {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient_quota\",\n        \"param\": null,\n        \"code\": \"credit_balance_exhausted\"\n    }\n}\n"
 }
