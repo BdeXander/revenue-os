@@ -1,7 +1,12 @@
 {
-  "updated_at": "2026-10-30T02:30:36.799656+00:00",
+  "updated_at": "2026-10-30T08:54:42.785776+00:00",
   "mode": "approval",
-  "signals": 0,
-  "top_signal": null,
-  "latest": "No strong signal found."
+  "signals": 2,
+  "top_signal": {
+    "title": "Looking for resources to learn how to build a restaurant team",
+    "summary": "Looking for resources on learning about building team system   I have a small burrito shop. I recently increased sales by 25 percent. I now have a small team that helps me but I am still the system and on the front line with them. I have not really delegated much responsibility to them.    I have operational systems. Checklists, reports, recipes, and build charts. I don\u2019t have a system of team hierarchy, delegated responsibilities and training procedures.    I know the team wants to take on more. I want them to but don\u2019t know how to train and manage them managing their specific responsibilities.    I know this is a huge project. I want to learn how to be a great effective team leader. Where do I start.    I recently learned basic marketing and employed a strategy and that drastically improved my business.    Now I am needing to figure this part of the business out. My goal is to have a system that properly incentivizes my employees to take on the responsibility of pulling off a great service each day.  My structure in my mind is the prep cook is held to standard by the lunch shift, the lunch shift is held to standard by the dinner shift, the dinner/close is held to standard by the prep shift and so on. Each shift operates off their checklists, reports hold the standard of the checklists, correction retraining and accountability happens quickly. Team members are incentivized to do a high level service. Fast tickets, high quality food, high level guest experience.    Are there ",
+    "url": "https://www.reddit.com/r/smallbusiness/comments/1xj725l/looking_for_resources_to_learn_how_to_build_a/",
+    "score": 4
+  },
+  "latest": "AI request failed: HTTP 429 - {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient_quota\",\n        \"param\": null,\n        \"code\": \"credit_balance_exhausted\"\n    }\n}\n"
 }
