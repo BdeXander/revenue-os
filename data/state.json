@@ -1,12 +1,7 @@
 {
-  "updated_at": "2026-10-29T22:55:22.409309+00:00",
+  "updated_at": "2026-10-30T02:30:36.799656+00:00",
   "mode": "approval",
-  "signals": 1,
-  "top_signal": {
-    "title": "advice on pricing shipping on depop canada",
-    "summary": "please help \ud83d\ude2d i\u2019m really struggling and need to sell clothes accessories alongside with handmade accessories/jewelry etc asap, and i can\u2019t figure out shipping. how do i price the shipping before i know the shipping cost of the potential buyers address?? i haven\u2019t been able to figure it out.. its prob common sense but pls explain it to me in simple terms. because u cant post without listing a shipping cost, but how do i know how much to price it if i dont know the destination and the cost?.. also what can i use for payment? im lowkey locked out of my paypal for some reason is there any other options apart from e transfer ?     &#32; submitted by &#32;   /u/giveuadore       [link]   &#32;   [comments]",
-    "url": "https://www.reddit.com/r/smallbusiness/comments/1xiy74f/advice_on_pricing_shipping_on_depop_canada/",
-    "score": 5
-  },
-  "latest": "AI request failed: HTTP 429 - {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient_quota\",\n        \"param\": null,\n        \"code\": \"credit_balance_exhausted\"\n    }\n}\n"
+  "signals": 0,
+  "top_signal": null,
+  "latest": "No strong signal found."
 }
