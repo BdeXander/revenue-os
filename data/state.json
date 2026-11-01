@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-11-01T00:22:11.269239+00:00",
+  "updated_at": "2026-11-01T06:43:35.421447+00:00",
   "mode": "approval",
-  "signals": 4,
+  "signals": 1,
   "top_signal": {
-    "title": "Starting a logistics service without a warehouse. Smart or not?",
-    "summary": "Quick note:  English is not my first language, so I used &amp;@ to help write this post. The story and the idea are mine.   I'm a project manager in construction. I run multi-million dollar projects, but as an employee. I answer clients at night and give a lot to a company that isn't mine. I'm thankful for the job. Still, I always feel my drive would go further if I put it into something of my own.   Logistics has always been my passion. The operations, the logic, connecting the dots.  Here is my idea. Many small online stores (150 to 1,000 orders a month) are run by one or two people. The owner spends hours every week on couriers, packing, returns and stock, when they should be selling. I want to be their outside operations manager. I'd pick and manage the couriers and the warehouse partner, handle returns, and keep the process running. I would combine the volume of several small stores to get better shipping prices than each could get alone.  I'm not buying a warehouse. I'd work with existing 3PLs and couriers first. If it works, I'd grow slowly toward my own warehouse and fleet.   I'd love your honest opinion:  1. Does this solve a real problem, or do small stores just handle it themselves and not want to pay?  2. If you ran a store like this, what would make you hire someone? What would make you say no?  3. How would you want to pay: monthly fee, per order, or a share of the savings?  4. Is starting with suppliers instead of my own warehouse smart? How do I avoid getting ",
-    "url": "https://www.reddit.com/r/smallbusiness/comments/1xkagt6/starting_a_logistics_service_without_a_warehouse/",
-    "score": 4
+    "title": "Need recommendations for a new credit card processor",
+    "summary": "Small professional office. Generally do about 5 to 12 charges a day. Most transactions are in the mid or higher three figures. many clients have mileage type or other specialty cards, and the card is usually presented at the time of the charge although a couple of times a week, we may take a payment over the phone. We accept everything from Visa to AMEX to Discover. Our current processor has our money available the next business day and we would like to keep that. we rarely need to call customer service.   Suggestions, please for the lowest cost option thank you     &#32; submitted by &#32;   /u/Clueless5001       [link]   &#32;   [comments]",
+    "url": "https://www.reddit.com/r/smallbusiness/comments/1xkt7ok/need_recommendations_for_a_new_credit_card/",
+    "score": 3
   },
   "latest": "AI request failed: HTTP 429 - {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient_quota\",\n        \"param\": null,\n        \"code\": \"credit_balance_exhausted\"\n    }\n}\n"
 }
