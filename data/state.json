@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-11-03T17:41:42.301636+00:00",
+  "updated_at": "2026-11-03T23:11:49.708656+00:00",
   "mode": "approval",
-  "signals": 2,
+  "signals": 5,
   "top_signal": {
-    "title": "Should I setup a LLC and get E&O insurance before doing 1099 contract work?",
-    "summary": "Hi   I'm applying for jobs in the tech/analytics sector. On certain job boards, I see positions that are labeled as &quot;contract&quot;. I'm also in a startup community where some founders would post 1099 work.    This got my thinking, should I setup a LLC and get E&amp;O insurance before taking on such jobs? I've been working as a W2 employee all my life but am trying to get more contract work for flexibility.   The way I understand, when you work as a W2 employee, you are typically not liable for mistakes that cause damage for the employer (you might be fired though). However, working as a contractor provides no such protection and therefore your personal assets might be at risk. I hope to understand more about this and how do consulant/freelancers typically protect themselves and what do you recommend for my situation.    I also heard it's possible to state in the contract that the maximum liability would be limited to a certain dollar amount. How often is this clause used?   Just want to know what's the &quot;typical&quot; ways freelancers handle this. I'm new to this. But it'd be pretty weird if I apply to a contract job on a job board and then mention &quot;hey, I need to setup an LLC first before I can start&quot;.   Thanks     &#32; submitted by &#32;   /u/EyeTechnical7643       [link]   &#32;   [comments]",
-    "url": "https://www.reddit.com/r/smallbusiness/comments/1xmzjcm/should_i_setup_a_llc_and_get_eo_insurance_before/",
-    "score": 3
+    "title": "Has your local Chamber of Commerce helped you get clients or sales?",
+    "summary": "I'm wondering if I should join my local Chamber after attending a couple events. On the surface, it feels dated and the only people I seem to meet are just other people looking for clients, so basically everyone needs more work or sales and nobody there seems to actually want to buy or hire anyone...on the other hand, I occasionally meet an interesting person. So far nothing has converted to a sale or a client, however.   Has anyone had any success with a Chamber of Commerce? Is this an overlooked resource, or a dying institution?   This post might be USA - Specific, although I'm sure there are organizations similar to what we call the &quot;Chamber of Commerce&quot; in most cities...     &#32; submitted by &#32;   /u/aestheticathletic       [link]   &#32;   [comments]",
+    "url": "https://www.reddit.com/r/smallbusiness/comments/1xn0wrx/has_your_local_chamber_of_commerce_helped_you_get/",
+    "score": 4
   },
   "latest": "AI request failed: HTTP 429 - {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient_quota\",\n        \"param\": null,\n        \"code\": \"credit_balance_exhausted\"\n    }\n}\n"
 }
