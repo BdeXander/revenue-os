@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-11-06T17:22:13.773411+00:00",
+  "updated_at": "2026-11-06T22:18:49.359732+00:00",
   "mode": "approval",
   "signals": 2,
   "top_signal": {
-    "title": "How do you develop a brand?",
-    "summary": "Hi everyone!   How do you go about building a brand? I help people prepare for programming exams and generally support them in their programming development.   In the future, I\u2019d like to expand into exam preparation (like the EGE/OGE in Russia) for various subjects, along with a whole range of other things.   However, I\u2019m not entirely sure how to manage this properly\u2014how to grow a social media presence, how to find clients, and so on.   Could you offer some advice or recommend any books that might help clarify things?   Thanks!     &#32; submitted by &#32;   /u/Radiant-Strength-448       [link]   &#32;   [comments]",
-    "url": "https://www.reddit.com/r/smallbusiness/comments/1xpf6cv/how_do_you_develop_a_brand/",
-    "score": 3
+    "title": "Recommendations for VoIP provider?",
+    "summary": "Hi all - I've been using voip.ms for my business phone service. It's been... OK. Affordable, decent connection, all that.   However, recently I've not been receiving text messages to the SIP app installed on my phone (voip.ms or Linphone). This is not good because some of them have been job inquiries or messages from active clients. Their tech support's help has generally been one of three:     &quot;configuration appears ok, please test again&quot;   &quot;you can always check the web portal's messaging center&quot;   &quot;we will submit a ticket to the development team for visibility&quot;     The REAL kicker is they have no automated re-send mechanism on their servers and the app has no function to check for SMS / MMS updates.   So if my phone ever goes offline (due to bad reception, a flight, etc.) my phone will just miss those messages forever and they will never be visible on my local device. According to  this thread , the &quot;swipe down&quot; function works for refreshing on the Android app, but I've confirmed it doesn't.   At this point I'm kind of done with them. The functional issues wouldn't be a problem if they admitted there IS a problem, but they deny there is any issue which feels like gaslighting and terrible customer service, and the low cost doesn't justify it.   Any recommendations on a good voip provider for small business? Looking to save some $ but consistent performance, reliable connectivity, and honest support are very high priorities at this stag",
+    "url": "https://www.reddit.com/r/smallbusiness/comments/1xpn7ex/recommendations_for_voip_provider/",
+    "score": 4
   },
   "latest": "AI request failed: HTTP 429 - {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient_quota\",\n        \"param\": null,\n        \"code\": \"credit_balance_exhausted\"\n    }\n}\n"
 }
