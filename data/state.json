@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-11-07T23:51:53.716356+00:00",
+  "updated_at": "2026-11-08T05:48:48.542303+00:00",
   "mode": "approval",
-  "signals": 1,
+  "signals": 2,
   "top_signal": {
-    "title": "I need help for online sales.",
-    "summary": "I have a website that sells craft resin items from book marks to live edge tables. My current project is pet memorials. How do I get exposure for my site? Preferably at little cost since money is running out.     &#32; submitted by &#32;   /u/ArtistiCMaker       [link]   &#32;   [comments]",
-    "url": "https://www.reddit.com/r/smallbusiness/comments/1xqa5fb/i_need_help_for_online_sales/",
-    "score": 4
+    "title": "Furniture business owners",
+    "summary": "Looking for some small furniture store business owners, I just started mine a few months ago and I need help with growing. I sell furniture local, 90% through Facebook marketplace and 10% Craigslist and OfferUp. I am getting close to 6 figures but think I can do better, I have a site that\u2019s easy, pick product, pickup or delivery, day and time slot. Got no sales for 1 month of advertising only meta ads. Was spending 15 dollars a day. I would like to hear your stories on how you grow or any ideas from anyone. Thank you. I have business cards. I have 8 Google reviews I started doing that now with pictures on my Google profile and posts every few days. Based in the US.     &#32; submitted by &#32;   /u/Sufficient_Key9080       [link]   &#32;   [comments]",
+    "url": "https://www.reddit.com/r/smallbusiness/comments/1xqpeoj/furniture_business_owners/",
+    "score": 3
   },
   "latest": "AI request failed: HTTP 429 - {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient_quota\",\n        \"param\": null,\n        \"code\": \"credit_balance_exhausted\"\n    }\n}\n"
 }
