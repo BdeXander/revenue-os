@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-11-08T13:12:06.003866+00:00",
+  "updated_at": "2026-11-08T18:27:31.066750+00:00",
   "mode": "approval",
-  "signals": 2,
+  "signals": 3,
   "top_signal": {
-    "title": "Young entrepreneur seeking advice",
-    "summary": "I wanted to get your advice on something as a young 26 years old entrepreneur.   I'm currently selling my services below market rates, which has helped me attract clients, but I'm finding it difficult to scale the business.   I've been advised to increase my pricing, so I experimented by raising my rates to 2\u20133 times the original price. However, for the next four months, I didn't manage to acquire a single client.   It makes me question whether my skill set is strong enough to compete at higher prices or whether I simply don't have the financial resources to hire A-players who can help take the business to the next level.   Right now, I'm stuck between offering cheaper services with low client retention and working with B-level talent, or charging higher rates but struggling to convince clients of the value.   How would you approach scaling a business in this situation? Would you focus on improving the team, positioning, pricing, or something else entirely?   I'd genuinely appreciate your perspective and advice.     &#32; submitted by &#32;   /u/Federal-Work1613       [link]   &#32;   [comments]",
-    "url": "https://www.reddit.com/r/smallbusiness/comments/1xqrkam/young_entrepreneur_seeking_advice/",
-    "score": 3
+    "title": "ACCA student in Pakistan trying to get my first remote bookkeeping clients. How did you find yours?",
+    "summary": "Hey all, long-time lurker. I\u2019m working through ACCA (4 papers down) and I handle the books at an IT hardware distributor here in Karachi. Mostly QuickBooks Desktop: bank recs, AP/AR, month-end, financial statements, plus some multi-currency stuff since we import from China, Taiwan and Dubai.   I\u2019d like to start taking on a few small remote clients on the side, but I\u2019m honestly stuck on the \u201chow do I find them\u201d part. I\u2019ve emailed a few bookkeeping firms and messaged some people on LinkedIn, and so far it\u2019s mostly silence. I know I\u2019m competing with a lot of people, and I\u2019m in a different country and timezone, so I get that it\u2019s an uphill climb.   A few things I\u2019d love to hear from people who\u2019ve done this:     Where did your first couple of clients come from? Referrals, Upwork, local networking, something else?   Does being outside the US make clients nervous, and how do you deal with that?   Is it worth learning QuickBooks Online properly first, or just pick it up as clients need it?   Anything you wish you\u2019d known starting out?     Not looking for handouts, just honest advice. If you know a small firm that needs overflow help, I\u2019m happy to chat, but mostly I\u2019d like to learn how others got started.   Thanks!     &#32; submitted by &#32;   /u/knowledgabledude       [link]   &#32;   [comments]",
+    "url": "https://www.reddit.com/r/smallbusiness/comments/1xqzbgj/acca_student_in_pakistan_trying_to_get_my_first/",
+    "score": 4
   },
   "latest": "AI request failed: HTTP 429 - {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient_quota\",\n        \"param\": null,\n        \"code\": \"credit_balance_exhausted\"\n    }\n}\n"
 }
