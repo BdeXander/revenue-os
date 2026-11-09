@@ -1,12 +1,7 @@
 {
-  "updated_at": "2026-11-09T01:53:55.269030+00:00",
+  "updated_at": "2026-11-09T09:36:16.765548+00:00",
   "mode": "approval",
-  "signals": 2,
-  "top_signal": {
-    "title": "I\u2019ve helped 30+ service businesses fix their quoting, follow-up, and operations. Always happy to give free advice - AMA",
-    "summary": "No course, no e-book, no newsletter, and I'm not looking for leads. I've done this for 30+ companies already, and I have a few days &quot;off&quot; between projects and would like to help a few businesses for free in this time.   It wouldn't be a normal multi-month engagement, but I can have a couple of chats with each person, look at how you handle incoming leads, quoting, and follow-ups, and provide a custom breakdown or set up a quick system to cut down your admin time, depending on what the business needs. I don't expect or need anything in return, although an honest testimonial is always appreciated.   There's no box or strict requirements you or your business have to fit in for this. The only absolute requirement is that you are a business owner. If you're not actively wanting to make changes, speed up your quoting, or improve your business, then this wouldn't be a good use of time.   I most commonly work with service-based businesses (trades, home services, local clinics, agencies, etc.), but I'm always happy to chat with almost any industry. The only exception is e-commerce, as it's just not my wheelhouse.   Send me a message and I will send you a link to fill out a quick online form\u2014that way your Reddit account won't be doxxed at all.   Please keep in mind that I won't be able to do a full build for everyone, but unless the response is chaotic, I will commit to at least providing some actionable value to every person who is interested.   Cheers!     &#32; submitted b",
-    "url": "https://www.reddit.com/r/smallbusiness/comments/1xreenb/ive_helped_30_service_businesses_fix_their/",
-    "score": 3
-  },
-  "latest": "AI request failed: HTTP 429 - {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient_quota\",\n        \"param\": null,\n        \"code\": \"credit_balance_exhausted\"\n    }\n}\n"
+  "signals": 0,
+  "top_signal": null,
+  "latest": "No strong signal found."
 }
