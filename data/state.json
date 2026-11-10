@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-11-10T02:38:26.778797+00:00",
+  "updated_at": "2026-11-10T10:58:03.916243+00:00",
   "mode": "approval",
-  "signals": 3,
+  "signals": 4,
   "top_signal": {
-    "title": "36 years old, have experience in multiple fields, but feel completely stuck professionally. Has anyone been through this?",
-    "summary": "I'm 36 years old, and for the past 10 years I've been working as a self-employed accountant, basically taking over the family accounting business from my father.   For the last 2 years, I've also been working as an external consultant for a company involved in European research projects related to AI and Data.   I studied Economics and Business and have a Master's degree in Machine Learning. I'm really interested in technology, entrepreneurship, and marketing. I spend quite a lot of time reading and learning about these subjects.   I can build websites with WordPress, run Google Ads campaigns, and lately I've been experimenting a lot with AI-assisted development and vibe coding.    My problem is that I feel like I have knowledge and experience in several different areas, but I haven't managed to turn any of it into a business that can actually grow and scale.    To be honest, I never really liked accounting. It was a family business that I continued mostly because it was already there.   Anyone working in accounting probably understands how exhausting it can be, especially with constantly changing regulations, government requirements, deadlines, and responsibilities.   The stress-to-income ratio just doesn't seem worth it anymore. It also takes up a significant amount of my time and mental energy.   My second job, working with the company on European research projects, is much better in terms of work-life balance. The collaboration is good, the workload is manageable, and it ",
-    "url": "https://www.reddit.com/r/smallbusiness/comments/1xrr74c/36_years_old_have_experience_in_multiple_fields/",
-    "score": 7
+    "title": "Anyone sourced UAE suppliers remotely?",
+    "summary": "I run an online modest-wear brand and I\u2019m looking to add abayas for the holiday season. I\u2019m mainly looking for UAE-based suppliers who can provide wholesale ready-made designs and can also do some customization.    I can\u2019t travel there right now, so it would need to be fully remote. I\u2019ve reached out to a bunch of suppliers but have gotten few responses. Some of the other pages I have found look pretty sketchy as well. If you have any recommendations or could help with this I\u2019d really appreciate it. Thanks!     &#32; submitted by &#32;   /u/Lower-Tonight-6662       [link]   &#32;   [comments]",
+    "url": "https://www.reddit.com/r/smallbusiness/comments/1xshoye/anyone_sourced_uae_suppliers_remotely/",
+    "score": 4
   },
   "latest": "AI request failed: HTTP 429 - {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient_quota\",\n        \"param\": null,\n        \"code\": \"credit_balance_exhausted\"\n    }\n}\n"
 }
