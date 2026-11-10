@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-10T10:58:03.916243+00:00",
+  "updated_at": "2026-11-10T18:34:58.781151+00:00",
   "mode": "approval",
-  "signals": 4,
+  "signals": 3,
   "top_signal": {
-    "title": "Anyone sourced UAE suppliers remotely?",
-    "summary": "I run an online modest-wear brand and I\u2019m looking to add abayas for the holiday season. I\u2019m mainly looking for UAE-based suppliers who can provide wholesale ready-made designs and can also do some customization.    I can\u2019t travel there right now, so it would need to be fully remote. I\u2019ve reached out to a bunch of suppliers but have gotten few responses. Some of the other pages I have found look pretty sketchy as well. If you have any recommendations or could help with this I\u2019d really appreciate it. Thanks!     &#32; submitted by &#32;   /u/Lower-Tonight-6662       [link]   &#32;   [comments]",
-    "url": "https://www.reddit.com/r/smallbusiness/comments/1xshoye/anyone_sourced_uae_suppliers_remotely/",
+    "title": "Looking for a reliable VOIP",
+    "summary": "Looking for a reliable VoIP provider with business texting   I own a small law firm and desperately need a reliable VoIP provider that actually helps with SMS/A2P 10DLC registration.  I\u2019ve had terrible experiences with Phone.com and RingCentral. My texting campaign was rejected about 18 times, and their support was useless. I don\u2019t have the time to keep going back and forth trying to get approved.  Texting clients is essential for my practice. I need a provider that will actually walk me through registration, help fix any issues, and get it approved.  Anyone have recommendations based on actual experience? I\u2019m beyond frustrated at this point.     &#32; submitted by &#32;   /u/Goody2shoes4u       [link]   &#32;   [comments]",
+    "url": "https://www.reddit.com/r/smallbusiness/comments/1xspoc7/looking_for_a_reliable_voip/",
     "score": 4
   },
   "latest": "AI request failed: HTTP 429 - {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient_quota\",\n        \"param\": null,\n        \"code\": \"credit_balance_exhausted\"\n    }\n}\n"
