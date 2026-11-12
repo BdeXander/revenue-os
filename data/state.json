@@ -1,7 +1,12 @@
 {
-  "updated_at": "2026-11-12T18:32:37.048431+00:00",
+  "updated_at": "2026-11-12T23:49:34.462236+00:00",
   "mode": "approval",
-  "signals": 0,
-  "top_signal": null,
-  "latest": "No strong signal found."
+  "signals": 1,
+  "top_signal": {
+    "title": "If you were starting an online business from scratch today, what would you do first?",
+    "summary": "Hello everyone!   I\u2019ve (age 26) been thinking about starting an online business in Dhaka Bangladesh, but I\u2019m still at the research and planning stage. I\u2019m particularly interested in hearing from people who have actually started and operated their own online businesses particularly instagram/ Facebook-based shop. I\u2019d love to learn about the practical side of getting started. I have a niche i would like to expand into so I am not particularly looking for product recommendations.  A few things I\u2019d appreciate some insight into:   \\- How do you get your first customers, and which marketing platforms have worked best for you?  \\- What are the most reliable courier and payment solutions for small online businesses?  \\-What are some unexpected challenges, hidden costs or mistakes that beginners should prepare for?  \\- How long did it take you to become profitable, and what does running your business actually look like on a day-to-day basis?   Even if you have a small business or started with very little capital, I\u2019d genuinely appreciate hearing about your experience.  Thanks in advance! Any advice, resources or personal experiences would be really helpful.     &#32; submitted by &#32;   /u/adapadalobonchada       [link]   &#32;   [comments]",
+    "url": "https://www.reddit.com/r/smallbusiness/comments/1xunalw/if_you_were_starting_an_online_business_from/",
+    "score": 5
+  },
+  "latest": "AI request failed: HTTP 429 - {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient_quota\",\n        \"param\": null,\n        \"code\": \"credit_balance_exhausted\"\n    }\n}\n"
 }
