@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-11-14T01:40:21.325544+00:00",
+  "updated_at": "2026-11-14T08:52:11.246930+00:00",
   "mode": "approval",
-  "signals": 2,
+  "signals": 1,
   "top_signal": {
-    "title": "Looking for custom business squishies/fidget toys...where should I buy?",
-    "summary": "Me and my nonprofit just started up a small company store and we had our first go around at an event. It went great and we got good sales, but I realized a great selling point for much of our audience would be items for kids that weren't so professional. I know NeeDohs and other squishies are a big craze, but Staples (who we originally ordered from) doesn't have a selection I am a fan of and everywhere else I look doesn't have many reviews. Any recommendations?     &#32; submitted by &#32;   /u/GooseMan428       [link]   &#32;   [comments]",
-    "url": "https://www.reddit.com/r/smallbusiness/comments/1xvmoj9/looking_for_custom_business_squishiesfidget/",
-    "score": 3
+    "title": "Started a small food business for my Amma, but we barely get any sales without ads. How do I grow it? Need advice.",
+    "summary": "Hi everyone, firstly, thank you for taking the time to read this. Your advice and suggestions would genuinely mean a lot to me.   So, I run a small food retail business where we sell traditional Kerala pickles, masalas and snacks. Most of these products are made by my Amma, who has always loved cooking and wanted to have a business of her own.   Now that she finally has the time to do something she has always wanted to, I thought why not help her turn her dream into reality? I also wanted this to become a source of income for her, something that she earns on her own by doing what she loves.   But the problem is, we are really struggling with getting organic traffic and sales.   Right now, most of our orders come through paid ads. Whenever we run ads, we get customers, but the moment we stop, the orders drop significantly. And being a small business, I don't think we can keep depending on paid ads forever.   Another thing I'm really struggling with is  Instagram visibility and engagement.  I want more people to discover our page, engage with our content and eventually become customers. But I honestly have no idea how to go about it. I've tried posting consistently whenever possible, experimenting with different types of posts, but we barely get any reach or engagement organically.   Content creation is another challenge altogether. I live in a completely different city from my parents, so I don't have access to the products or the cooking process regularly. And my parents aren",
+    "url": "https://www.reddit.com/r/smallbusiness/comments/1xvx5w6/started_a_small_food_business_for_my_amma_but_we/",
+    "score": 5
   },
   "latest": "AI request failed: HTTP 429 - {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient_quota\",\n        \"param\": null,\n        \"code\": \"credit_balance_exhausted\"\n    }\n}\n"
 }
