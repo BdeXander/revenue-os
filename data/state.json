@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-14T08:52:11.246930+00:00",
+  "updated_at": "2026-11-14T15:42:50.055060+00:00",
   "mode": "approval",
   "signals": 1,
   "top_signal": {
@@ -8,5 +8,5 @@
     "url": "https://www.reddit.com/r/smallbusiness/comments/1xvx5w6/started_a_small_food_business_for_my_amma_but_we/",
     "score": 5
   },
-  "latest": "AI request failed: HTTP 429 - {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient_quota\",\n        \"param\": null,\n        \"code\": \"credit_balance_exhausted\"\n    }\n}\n"
+  "latest": "AI request failed: HTTP 401 - {\n  \"error\": {\n    \"message\": \"Your API key has been invalidated.\",\n    \"type\": null,\n    \"code\": \"token_invalidated\",\n    \"param\": null\n  },\n  \"status\": 401\n}"
 }
