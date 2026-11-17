@@ -1,12 +1,7 @@
 {
-  "updated_at": "2026-11-17T08:59:54.938654+00:00",
+  "updated_at": "2026-11-17T18:24:01.498596+00:00",
   "mode": "approval",
-  "signals": 7,
-  "top_signal": {
-    "title": "Looking for advice: Starting a small outdoor gear rental business",
-    "summary": "Hey everyone!   A buddy and I have been talking about starting a small outdoor gear rental business out of our garage, and we're finally looking into what it would take to make it happen.   We're both recent college graduates and outdoor enthusiasts. One thing we've noticed is that getting into hiking, backpacking, and camping can be pretty expensive, especially for beginners who aren't sure how often they'll use the equipment. Rather than spending hundreds or even thousands of dollars on gear they might only use once or twice a year, we'd like to give people the option to rent what they need.   We'd offer:      Backpacking bundles:  Essential gear for someone heading out on an overnight or multi-day trip.    Day-hiking bundles:  Headlamps, trekking poles, water filtration systems, and other hiking essentials.    Individual rentals:  Tents, sleeping bags, sleeping pads, cooking systems, backpacks, water filters, and other outdoor equipment.    Delivery and pickup:  We'd offer local delivery and pickup to make the process easier for customers who don't have access to all the necessary equipment.     Our plan is to start small, purchase a limited amount of inventory, and conduct some market research before launching in Summer 2027. We'd like to survey potential customers, understand local demand, and see whether this is something worth expanding.   We're looking at an initial investment of  $2,000\u2013$8,000 , ideally keeping things as lean as possible. We're not expecting to get r",
-    "url": "https://www.reddit.com/r/smallbusiness/comments/1xya6wb/looking_for_advice_starting_a_small_outdoor_gear/",
-    "score": 5
-  },
-  "latest": "AI request failed: HTTP 401 - {\n  \"error\": {\n    \"message\": \"Your API key has expired. Create a new API key to continue.\",\n    \"type\": \"invalid_request_error\",\n    \"code\": \"expired_secret_key\",\n    \"param\": null\n  },\n  \"status\": 401\n}"
+  "signals": 0,
+  "top_signal": null,
+  "latest": "No strong signal found."
 }
